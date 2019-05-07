@@ -1,5 +1,5 @@
 var arithmetic = require('arithmetic');
-var repeat = ''//require('repeat-string');
+var repeat = require('repeat-string');
 
 var result = arithmetic.add(2, 4);
 
